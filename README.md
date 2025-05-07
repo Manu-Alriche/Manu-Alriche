@@ -1,4 +1,4 @@
-![Description de l'image](chemin/vers/votre-image.png)
+![Banniere](Banniere.png)
 
 # Bienvenue sur mon profil GitHub !
 
