@@ -6,8 +6,8 @@ Bonjour, je suis Manu-Alriche, un développeur web  passionné par la création 
 
 ## Mes Compétences
 
-- **Langages :** HTML, CSS, JavaScript
-- **Frameworks :** Svelte
-- **Outils :** Git, NPM
+- **Langages :** HTML, CSS, JavaScript, SQL
+- **Frameworks :** Svelte, Node.js, Express, Sequelize
+- **Outils :** Git, NPM, PostgreSQL
 
 Je suis toujours à la recherche de nouvelles opportunités pour apprendre et grandir en tant que développeur. N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité ou collaboration !
